@@ -7,6 +7,10 @@ YPIM is a simple command-line tool designed to query the official [BreachDirecto
 ⚠️ **IMPORTANT: API Key Required** 
 You cannot use this script without an API key. You must register on RapidAPI and subscribe to the [BreachDirectory API](https://rapidapi.com/rohan-patra/api/breachdirectory) to get your personal key.
 
+## Disclaimer
+
+YPIM is intended for educational and authorized security research purposes only. Use it responsibly and only with data you are authorized to access.
+
 ## Dependencies
 
 The script requires Python 3. It uses the `requests` library to handle API calls, and optionally uses `rich` to display beautiful tables and terminal output.
